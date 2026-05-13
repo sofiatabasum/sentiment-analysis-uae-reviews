@@ -1,0 +1,51 @@
+review_id,review_text,sentiment,clean_text,predicted_sentiment
+1,Delivery was fast and the product quality is excellent,positive,delivery fast product quality excellent,positive
+2,"Very disappointed, the item arrived damaged",negative,disappointed item arrived damaged,negative
+3,"It’s okay, not too bad but not great either",neutral,it’s okay bad great either,neutral
+4,Customer service was very helpful and polite,positive,customer service helpful polite,positive
+5,"The delivery took too long, not satisfied",negative,delivery took long satisfied,negative
+6,"Product matches the description, happy with the purchase",positive,product match description happy purchase,positive
+7,Packaging was poor and item was scratched,negative,packaging poor item scratched,negative
+8,"Average experience, nothing special",neutral,average experience nothing special,neutral
+9,"Super quick delivery, loved it",positive,super quick delivery loved,positive
+10,The product stopped working after two days,negative,product stopped working two day,negative
+11,Good value for money,positive,good value money,positive
+12,Not worth the price,negative,worth price,negative
+13,Satisfied with the quality,positive,satisfied quality,positive
+14,The color is different from what I ordered,negative,color different ordered,positive
+15,"It works fine, acceptable quality",neutral,work fine acceptable quality,neutral
+16,"Amazing product, highly recommend",positive,amazing product highly recommend,positive
+17,Worst purchase ever,negative,worst purchase ever,negative
+18,"Delivery was on time, decent experience",neutral,delivery time decent experience,positive
+19,Excellent customer support,positive,excellent customer support,positive
+20,The size is smaller than expected,negative,size smaller expected,positive
+21,Very comfortable and stylish,positive,comfortable stylish,positive
+22,The item arrived late and the box was open,negative,item arrived late box open,negative
+23,"It’s fine, meets basic expectations",neutral,it’s fine meet basic expectation,neutral
+24,Great quality and fast shipping,positive,great quality fast shipping,positive
+25,Completely useless product,negative,completely useless product,negative
+26,Works as expected,neutral,work expected,positive
+27,Loved the packaging and quality,positive,loved packaging quality,positive
+28,The product is defective,negative,product defective,negative
+29,"Not bad, could be better",neutral,bad could better,neutral
+30,"Fantastic experience, will buy again",positive,fantastic experience buy,positive
+31,Delivery guy was rude,negative,delivery guy rude,negative
+32,The product is okay for the price,neutral,product okay price,neutral
+33,Very happy with the purchase,positive,happy purchase,positive
+34,Battery life is terrible,negative,battery life terrible,negative
+35,Satisfactory performance,neutral,satisfactory performance,neutral
+36,High quality and fast delivery,positive,high quality fast delivery,positive
+37,The item didn’t match the description,negative,item didn’t match description,negative
+38,"It’s acceptable, nothing to complain about",neutral,it’s acceptable nothing complain,neutral
+39,Excellent service and great product,positive,excellent service great product,positive
+40,Poor quality material,negative,poor quality material,positive
+41,"Works perfectly, very impressed",positive,work perfectly impressed,positive
+42,"Not good, not bad, just average",neutral,good bad average,neutral
+43,Super happy with the product,positive,super happy product,positive
+44,The product arrived broken,negative,product arrived broken,negative
+45,Decent product for daily use,neutral,decent product daily use,neutral
+46,Amazing quality for the price,positive,amazing quality price,positive
+47,Very slow delivery,negative,slow delivery,negative
+48,"It’s fine, does the job",neutral,it’s fine job,neutral
+49,"Great purchase, totally worth it",positive,great purchase totally worth,negative
+50,I regret buying this item,negative,regret buying item,negative

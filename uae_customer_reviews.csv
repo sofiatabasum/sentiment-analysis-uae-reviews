@@ -1,0 +1,51 @@
+﻿review_id,review_text,sentiment
+1,Delivery was fast and the product quality is excellent,positive
+2,"Very disappointed, the item arrived damaged",negative
+3,"It’s okay, not too bad but not great either",neutral
+4,Customer service was very helpful and polite,positive
+5,"The delivery took too long, not satisfied",negative
+6,"Product matches the description, happy with the purchase",positive
+7,Packaging was poor and item was scratched,negative
+8,"Average experience, nothing special",neutral
+9,"Super quick delivery, loved it",positive
+10,The product stopped working after two days,negative
+11,Good value for money,positive
+12,Not worth the price,negative
+13,Satisfied with the quality,positive
+14,The color is different from what I ordered,negative
+15,"It works fine, acceptable quality",neutral
+16,"Amazing product, highly recommend",positive
+17,Worst purchase ever,negative
+18,"Delivery was on time, decent experience",neutral
+19,Excellent customer support,positive
+20,The size is smaller than expected,negative
+21,Very comfortable and stylish,positive
+22,The item arrived late and the box was open,negative
+23,"It’s fine, meets basic expectations",neutral
+24,Great quality and fast shipping,positive
+25,Completely useless product,negative
+26,Works as expected,neutral
+27,Loved the packaging and quality,positive
+28,The product is defective,negative
+29,"Not bad, could be better",neutral
+30,"Fantastic experience, will buy again",positive
+31,Delivery guy was rude,negative
+32,The product is okay for the price,neutral
+33,Very happy with the purchase,positive
+34,Battery life is terrible,negative
+35,Satisfactory performance,neutral
+36,High quality and fast delivery,positive
+37,The item didn’t match the description,negative
+38,"It’s acceptable, nothing to complain about",neutral
+39,Excellent service and great product,positive
+40,Poor quality material,negative
+41,"Works perfectly, very impressed",positive
+42,"Not good, not bad, just average",neutral
+43,Super happy with the product,positive
+44,The product arrived broken,negative
+45,Decent product for daily use,neutral
+46,Amazing quality for the price,positive
+47,Very slow delivery,negative
+48,"It’s fine, does the job",neutral
+49,"Great purchase, totally worth it",positive
+50,I regret buying this item,negative
